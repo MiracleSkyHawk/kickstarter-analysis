@@ -22,7 +22,7 @@ In order to find out when is the best time to launch a fundraising campaign, an 
 
 ![Pivot_Table.png](resources/Pivot_Table.png)
 
-It can be noted that throughout the years, the total number of campaigns launched in each months does not vary significantly. The numbers of successful campaigns launched in May, June, and July, however, are remarkably greater than the numbers of those launched in other months. This can also be depicted in the line chart below.
+ It can be noted that throughout the years, the total number of campaigns launched in each months does not vary significantly. The numbers of successful campaigns launched in May, June, and July, however, are remarkably greater than the numbers of those launched in other months. This can also be depicted in the line chart below.
 
 ![Theater_Outcomes_vs_Launch.png](resources/Theater_Outcomes_vs_Launch.png)
 
