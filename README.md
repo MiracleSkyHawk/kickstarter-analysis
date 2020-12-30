@@ -16,11 +16,11 @@ This analysis emphasized on the following factors that have impact on the succes
 
 ### Analysis of Outcomes Based on Launch Date
 
-![Pivot_Table.png](resources/Pivot_Table.png)
+![Lauch_Date_Table.png](resources/Lauch_Date_Table.png)
 
 In order to find out when is the best time to launch a fundraising campaign, an analysis was conducted to see which launch months have the highest success rate. Pivot table was used to filter and organize the data. Only campaigns under “theater” categories were considered for most relevance in this analysis because Louise’s campaign is categorized as “play” under “theater”. The pivotable fields were set as the following.
 
-![Lauch_Date_Table.png](resources/Lauch_Date_Table.png)
+![Pivot_Table.png](resources/Pivot_Table.png)
 
 It can be noted that throughout the years, the total number of campaigns launched in each months does not vary significantly. The numbers of successful campaigns launched in May, June, and July, however, are remarkably greater than the numbers of those launched in other months. This can also be depicted in the line chart below.
 
