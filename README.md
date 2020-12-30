@@ -16,6 +16,8 @@ This analysis emphasized on the following factors that have impact on the succes
 
 ### Analysis of Outcomes Based on Launch Date
 
+![Theater_Outcomes_vs_Launch.png](kickstarter-analysis/resources/Theater_Outcomes_vs_Launch.png
+
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
