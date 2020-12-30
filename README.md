@@ -57,12 +57,12 @@ One thing that was not considered in both analyses discussed above is the trend 
 
 - What can you conclude about the Outcomes based on Goals?
 
-Campaigns that are categorized as “play” with goals under $5,000 are more likely to be successful.
+  Campaigns that are categorized as “play” with goals under $5,000 are more likely to be successful.
 
 - What are some limitations of this dataset?
 
-One of the limitations of this dataset is that it does not show how fast funds were raised for each campaign. Although it shows the start and end dates of each campaign, whether most money was raised within the first 10% of the whole time period or the money raised was evenly spread across the whole duration is not shown. This could be valuable information for Louise because it is important to know at what point she should put more effort on the fundraising campaign. 
+  One of the limitations of this dataset is that it does not show how fast funds were raised for each campaign. Although it shows the start and end dates of each campaign, whether most money was raised within the first 10% of the whole time period or the money raised was evenly spread across the whole duration is not shown. This could be valuable information for Louise because it is important to know at what point she should put more effort on the fundraising campaign. 
 
 - What are some other possible tables and/or graphs that we could create?
 
-I have included a cluster combo chart in the Analysis of Outcomes Based on Goals section. This is to ensure that the number of campaigns launched with goals in these ranges are large enough for the analysis to use successful percentages as statistically significant data.
+  I have included a cluster combo chart in the Analysis of Outcomes Based on Goals section. This is to ensure that the number of campaigns launched with goals in these ranges are large enough for the analysis to use successful percentages as statistically significant data.
