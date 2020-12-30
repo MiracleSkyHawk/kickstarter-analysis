@@ -28,9 +28,23 @@ From the line chart, it can be noticed that the number of successful campaigns p
 
 ### Analysis of Outcomes Based on Goals
 
+Another important factor that affects the success rate of a campaign is the goal. In this analysis, the campaign dataset was filtered by their outcomes, goals, and subcategories using “COUNTIFS” function in excel. A table was formulated as shown below.
 
+![Goal_Table.png](resources/Goal_Table.png)
+
+A line chart was generated based on the table and is shown below.
+
+![Outcomes_vs_Goals.png](resources/Outcomes_vs_Goals.png)
+
+As the line chart above depicts, the campaigns with goals that range from $0 to $999 and from $1,000 to $4,999 have the highest success rates (76% and 73%). However, the number of campaigns launched with goals in these ranges must also be taken into consideration to ensure that the success rates are statistically significant. An improved cluster chart was generated to include the number of campaigns with goals in different ranges.
+
+![Outcomes_vs_Goals_Cluster_Chart.png](resources/Outcomes_vs_Goals_Cluster_Chart.png)
+
+From the chart above, it can be seen that the numbers of successful campaigns with goals that are less than $1,000 and from $1,000 to $4,999 are also the greatest among all the ranges. Therefore, a fundraising campaign that is categorized as “play” is most likely to succeed if its goal is under $5,000.
 
 ### Challenges and Difficulties Encountered
+
+One thing that was not considered in both analyses discussed above is the trend of success rate over the past decades. The data discussed in the previous analyses goes back to 1970. It is very likely that how the launch dates and goals affect the success rate has changed. A more sophisticated analysis that takes the consideration of the trend in recent years should be conducted.
 
 ## Results
 
