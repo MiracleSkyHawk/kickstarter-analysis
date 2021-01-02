@@ -52,8 +52,8 @@ One thing that was not considered in both analyses discussed above is the trend 
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-1.	Based on the analysis performed above, it can be concluded that campaigns that are categorized as “play” are more likely to be successful if they are launched in months such as May, June, and July. 
-2.	The numbers of “play” campaigns that failed or were canceled do not vary significantly over a year, despite noticeable changes on the total number of “play” campaigns launched in different months.
+1.	Based on the analysis performed above, it can be concluded that campaigns that are categorized as “theater” are more likely to be successful if they are launched in months such as May, June, and July. 
+2.	The numbers of “theater” campaigns that failed or were canceled do not vary significantly over a year, despite noticeable changes on the total number of “theater” campaigns launched in different months.
 
 - What can you conclude about the Outcomes based on Goals?
 
